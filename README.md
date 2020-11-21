@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Usman Haider
+#### I am a Web and Mobile Designer and Developer
+![I am Web and Mobile Designer and Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I'm Usman Haider from Pakistan, and I do Design and Development from Stunning Web to Mobile Apps. I really enjoy learning languages and frameworks like Angular, React, Vue JS as well as work in Flutter to Develop Mobile Apps for both ios and Android. I also enjoy wireframing, UI, UX, and design in general.
+
+Skills: VUE JS / REACT / JS / HTML / CSS / ANGULAR / NODE JS / FLUTTER / ADOBE XD / ADOBE PHOTOSHOP / ADOBE ILLUSTRATOR
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 💻 **Languages and Tools:** 🛠️<br>
 
