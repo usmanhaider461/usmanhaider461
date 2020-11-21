@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Usman Haider
 #### I am a Web and Mobile Designer and Developer
-![I am Web and Mobile Designer and Developer](https://github.com/usmanhaider461/usmanhaider461/blob/main/Usman%20Haider.gif)
+![I am Web and Mobile Designer and Developer](https://github.com/usmanhaider461/usmanhaider461/blob/main/Usman%20Haider%202.gif)
 
 I'm Usman Haider from Pakistan, and I do Design and Development from Stunning Web to Mobile Apps. I really enjoy learning languages and frameworks like Angular, React, Vue JS as well as work in Flutter to Develop Mobile Apps for both ios and Android. I also enjoy wireframing, UI, UX, and design in general.
 
