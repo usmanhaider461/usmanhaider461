@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![usmanhaider461's github stats](https://github-readme-stats.vercel.app/api?username=usmanhaider461)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **usmanhaider461/usmanhaider461** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
